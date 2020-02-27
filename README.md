@@ -19,5 +19,10 @@ pip install -r requirements.txt
 ```
 - cd server
 - python App-Server.py
+```
+
+# SmartBin RUN
+```
+- cd server
 - python Request-Server.py
 ```
